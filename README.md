@@ -10,4 +10,4 @@ Run using ./train and specifying an input file (e.g. the Artz.votes.gz file prov
 
 For additional datasets see snap.stanford.edu/data
 
-Questions and comments to julian.mcauley@gmail.com
+Questions and comments to cathylilin@gmail.com
